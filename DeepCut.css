@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right, rgba(19,55,255),rgba(156,156,156), rgba(245,255,0));
+}
+#bio{
+    text-align: center;
+}
+#BigMan{
+    text-align: center;
+}
+#content{
+    display: flex;
+    justify-content: space-evenly;
+}
+#Frye{
+    text-align: center;
+}
+#Shiver{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}

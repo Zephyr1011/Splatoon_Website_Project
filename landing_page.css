@@ -1,0 +1,43 @@
+header{
+    background-image: url(https://i1.sndcdn.com/visuals-s5bazgJ0k2Dm1k5k-ouKFLg-t1240x260.jpg);
+    
+    height: 180px;
+    color: white;
+}
+#intro{
+    color: white;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(blue, orange);
+}
+#title{
+    text-align: center;
+    color: white;
+}
+#bands{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#TheSquidSisters{
+   background-image: linear-gradient(to right,rgb(209,87,146),rgb(129, 201, 78) );
+   display: inline-block;
+   text-align: center;
+}
+#OfftheHook{
+    background-image:linear-gradient(to right, rgb(220,35,115), rgb(112,179,132));
+    display: inline-block;
+    text-align: center;
+}
+#DeepCut{
+    background-image: linear-gradient(to right, rgba(19,55,255), rgba(245,255,0),rgba(156,156,156));
+    display: inline-block;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+img{
+    width: 500px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-image:linear-gradient(to right, rgb(220,35,115), rgb(112,179,132));
+    text-align: center;
+}
+#navBar{
+    text-align: left;
+}
+#content{
+    display: flex;
+}
+#Pearl{
+    display: inline-block;
+    text-align: center;
+}
+#Marina{
+    display: inline-block;
+    text-align: center;
+}
+#marinaProfile{
+    width: 340px;
+}

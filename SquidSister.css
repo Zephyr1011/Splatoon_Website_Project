@@ -1,0 +1,27 @@
+#content{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+#navBar{
+    text-align: left;
+}
+img{
+    width: 400px;
+}
+#Splat1{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right,rgb(209,87,146),rgb(129, 201, 78) );
+    text-align: center;
+}
+#Callie{
+    display: inline-block;
+}
+#Marie{
+    display: inline-block;
+}
+#marieProfile{
+    width: 300px;
+}
